@@ -1,12 +1,16 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
 
-**Here are some ideas to get you started:**
+## 🙋‍♀️ About Us
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+The SAMSmart consortium is a funded project working on IT security in smart homes. Our goal is to make connected devices safer and give users control over their data. In the SAMSmart project, we develop tools, dashboards, and demonstrators to monitor, analyze, and enhance security and privacy in everyday smart-home environments.
+
+## 🌈 Contribution Guidelines
+
+We welcome contributions from the community! You can help by reporting issues, suggesting features, improving documentation, or contributing code. Please fork the repository, create a branch, and submit a pull request. Check our [CONTRIBUTING.md](./CONTRIBUTING.md) for detailed instructions.
+
+## 👩‍💻 Useful Resources
+
+* Project website: [SAMSmart](https://samsmart.de/)
+* Privacy Dashboard: [Privacy Dashboard](https://samsmart.hosts.openinc.de/)
+* For questions, discussions, and community support, join our [GitHub Discussions](https://github.com/orgs/SAMSmartProject/discussions).
